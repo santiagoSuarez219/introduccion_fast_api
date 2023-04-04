@@ -40,6 +40,9 @@
 - [Despliegue](#despliegue)
   - [Preparando el proyecto para desplegar a produccion](#preparando-el-proyecto-para-desplegar-a-produccion)
   - [Creando el repositorio en GitLab](#creando-el-repositorio-en-gitlab)
+  - [Creando el Droplet en DigitalOcean](#creando-el-droplet-en-digitalocean)
+- [Instalacion de herramientas para el servidor](#instalacion-de-herramientas-para-el-servidor)
+- [Ejecutando FastAPI con NGINX](#ejecutando-fastapi-con-nginx)
 
 
 # Introduccion a Fast API
@@ -922,5 +925,11 @@ Se crea la carpeta schemas y se guardan los esquemas de las clases
 ## Creando el repositorio en GitLab
 1. [Clase](https://platzi.com/clases/5355-fastapi-modularizacion-datos/57751-creando-el-repositorio-en-gitlab/)
 
+## Creando el Droplet en DigitalOcean
+1. [Clase](https://platzi.com/clases/5355-fastapi-modularizacion-datos/57752-creando-el-droplet-en-digitalocean/)
 
+# Instalacion de herramientas para el servidor
+1. [Clase](https://platzi.com/clases/5355-fastapi-modularizacion-datos/57753-instalacion-de-herramientas-para-el-servidor/)
 
+# Ejecutando FastAPI con NGINX
+1. [Clase](https://platzi.com/clases/5355-fastapi-modularizacion-datos/57754-ejecutando-fastapi-con-nginx/)
